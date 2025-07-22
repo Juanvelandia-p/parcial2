@@ -51,6 +51,10 @@ Esta aplicación permite obtener informacion acerca del clima actual de la ciuda
 ## Multiusuario
 La aplicación es multiusuario por diseño: cada usuario interactúa con su propia instancia del frontend y el backend no guarda estado entre peticiones.
 
+## Prueba de funcionamiento:
+<img width="1735" height="747" alt="image" src="https://github.com/user-attachments/assets/42f493e1-2ed7-4a5c-9005-607f461bcf0c" />
+
+
 ## Notas adicionales
 
 - El backend expone el endpoint `/operations` para realizar las operaciones.
