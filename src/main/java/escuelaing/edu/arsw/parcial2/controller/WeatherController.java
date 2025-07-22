@@ -14,7 +14,7 @@ import escuelaing.edu.arsw.parcial2.service.WeatherService;
 
 @RestController
 @RequestMapping(value = "/status",produces = "application/json")
-@CrossOrigin(origins = "*")
+@CrossOrigin(origins = "https://nice-island-048dd341e.2.azurestaticapps.net")
 public class WeatherController {
     private final WeatherService weatherService;
 
